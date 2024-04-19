@@ -1,5 +1,5 @@
 <!-- FOOTER -->
-<section class="bg-dark">
+<section class="bg-dark mt-5">
     <footer class="py-5 bg-dark">
         <div class="container">
             <div class="row">
@@ -9,7 +9,7 @@
                     <a class="navbar-brand logo text-white" href="index.php">VOTEDB.</a>
 
                     <!-- Text -->
-                    <p class="text-gray-700 mb-2">
+                    <p class="text-white mb-2">
                         Thank you for visiting our website and exploring our voting information. We strive to
                         provide accurate and transparent data for informed decision-making. Your participation is
                         vital in shaping the future through democratic processes.
