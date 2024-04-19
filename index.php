@@ -10,9 +10,7 @@
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/favicon/favicon.ico" type="image/x-icon">
 
-    <!-- Map CSS -->
-    <link rel="stylesheet" href="../api.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.css">
-
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <!-- Libs CSS -->
     <link rel="stylesheet" href="assets/css/libs.bundle.css">
 
@@ -154,6 +152,10 @@
 
     <!-- JAVASCRIPT -->
     <!-- Vendor JS -->
+
+    <!-- Map JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
+    </script>
     <script src="assets/js/vendor.bundle.js"></script>
 
     <!-- Theme JS -->
